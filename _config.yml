@@ -5,7 +5,7 @@ description: Welcome to my portfolio, where you'll find my resume, my research i
 
 show_downloads: True
 
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-cayman
 
 github_username: ltoguh
 

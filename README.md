@@ -1,7 +1,5 @@
 # Portfolio
 
-Welcome to my portfolio, where you'll find my resume, my research interests and some of my results.
-
 ### Education
 - (2023 - Present) **Ph. D., Physics** | University of Brest, France
 - (2022 - 2023) **M.S., Physics, Optics and Photonics** | University of Brest, France
@@ -24,4 +22,9 @@ Welcome to my portfolio, where you'll find my resume, my research interests and 
 - *(accepted)* SPIE Europe 2026, oral presentation, Strasbourg, April 2026
 - Conference of IBSAM (Institut Brestois Santé Agro Matière), poster, Brest, 2025
 - French congress of Optics, [oral presentation](https://www.researchgate.net/publication/392936746_MICROSCOPIE_DE_BIREFRINGENCE_A_BALAYAGE_LASER_ET_PLEIN_CHAMP_PAR_CODAGE_SPECTRAL_DE_LA_POLARISATION?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19), Rouen, 2025
+
+
+### Results
+
+
 

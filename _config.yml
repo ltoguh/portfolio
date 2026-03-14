@@ -7,9 +7,6 @@ show_downloads: True
 
 theme: jekyll-theme-minimal
 
-github_username: ltoguh
-
-author:
-  name: Hugo Laviec
-  email: hugo.laviec@univ-brest.fr
-        
+collections:
+  animations:
+    output: True 

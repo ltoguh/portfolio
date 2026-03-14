@@ -10,5 +10,8 @@ theme: jekyll-theme-minimal
 github:
   username: ltoguh
 
+footer:
+  contact: hugo.laviec@univ-brest.fr
+  
 mail-to: hugo.laviec@univ-brest.fr
         

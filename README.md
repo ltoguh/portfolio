@@ -15,7 +15,7 @@ Welcome to my portfolio, where you'll find my resume, my research interests and 
 
 ### Publications and patents
 - **H. Laviec**, S. Rivet, M. Dubreuil, G. Gilbert and Y. Le Grand, "Multimodal polarization and phase microscopy by spectrally structured asymmetric illumination", *to be submitted* to Biomedial Optics Express, 2026
-- **H. Laviec**, S. Rivet, M. Dubreuil and Y. Le Grand, "Video rate widefield sensitive polarized light microscopy by spectrally structured illumination", Optics Letters, 2025
+- **H. Laviec**, S. Rivet, M. Dubreuil and Y. Le Grand, ["Video rate widefield sensitive polarized light microscopy by spectrally structured illumination"](https://www.researchgate.net/publication/395208448_Video_rate_widefield_sensitive_polarized_light_microscopy_by_spectrally_structured_illumination?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0), Optics Letters, 2025
 - **H. Laviec**, S. Rivet, M. Dubreuil, G. Gilbert and Y. Le Grand, "Widefield sensitive birefringence microscopy by spectral encoding of the polarization", Optics Letters, 2024
 - S. Rivet, M. Dubreuil, Y. Le Grand, B. Boulbry and **H. Laviec**, "Dispositif de démodulation par éclairement spectralement structuré pour la microscopie plein champ de la biréfringence par codage spectral", Patent FR2406902, 2024
 

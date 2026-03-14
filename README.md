@@ -46,7 +46,7 @@ Mail: laviechugo@protonmail.com
 
 Since the first course in bioimaging followed during by Master's degree, my interest for optical imaging and its applications to biology has constantly grown. The discovery of optical microscopy and its rich diversity has opened for me new opportunities. I am always looking for new innovative techniques to observe biological specimens defying the current limits of optical microscopy whether in terms of labelling, optical resolution or noise limits. I am also highly interested in computational imaging using algorithms to reconstruct information about the sample from raw data. 
 
-### [Animations](/ma-page-speciale/)
+
 
 
 

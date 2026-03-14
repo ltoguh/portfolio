@@ -7,6 +7,3 @@ show_downloads: True
 
 theme: jekyll-theme-minimal
 
-collections:
-  animations:
-    output: True 

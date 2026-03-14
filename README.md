@@ -25,9 +25,12 @@
 
 ### Results
 <figure>
-  <img src="images/cell_bouche2_hsv.png" width="400">
+  <div style="display:flex; gap:10px;">
+    <img src="images/cell_bouche2_hsv.png" width="300">
+    <img src="images/cell_bouche2_phase.png" width="300">
+  </div>
   <figcaption>
-    This image shows the linear birefringence of human cheek cells with the color associated to its orientation in the sample.
+    This figure shows (a) the birefringence of human cheek cells and its orienttion and (b) the phase gradient of the cells
   </figcaption>
 </figure>
 

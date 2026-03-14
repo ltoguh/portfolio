@@ -2,6 +2,11 @@
 
 I am currently looking for a postdoc position in biomedical imaging in Germany.
 
+### Contact
+Mail: hugo.laviec@univ-brest.fr
+
+# CV
+
 ### Education
 - (2023 - Present) **Ph. D., Physics** | University of Brest, France
 - (2022 - 2023) **M.S., Physics, Optics and Photonics** | University of Brest, France

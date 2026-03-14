@@ -1,5 +1,4 @@
 ---
-layout: page
-title: Ma nouvelle page
+permalink: /ma-page-speciale/
 ---
 # Test

@@ -7,5 +7,7 @@
 
 ### Research experience
 - PhD in optical microscopy at the University of Brest
-  Development of multimodal techniques 
+  Development of fast and sensitive label-free microscopy multimodal techniques using polarization of light.
+- Master's thesis at the University of Brest
+  Sensitive widefield polarized light microscopy
 

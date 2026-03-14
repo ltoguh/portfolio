@@ -1,5 +1,7 @@
 # Portfolio
 
+I am currently looking for a postdoc position in biomedical imaging in Germany.
+
 ### Education
 - (2023 - Present) **Ph. D., Physics** | University of Brest, France
 - (2022 - 2023) **M.S., Physics, Optics and Photonics** | University of Brest, France
@@ -35,7 +37,9 @@
   </figcaption>
 </figure>
 
+# Research interests
 
+Since the first course in bioimaging followed during by Master's degree, my interest for optical imaging and its applications to biology has constantly grown. The discovery of optical microscopy and its rich diversity has opened for me new opportunities. I am always looking for new innovative techniques to observe biological specimens defying the current limits of optical microscopy whether in terms on labelling, optical resolution or noise limits. I am also highly interested in computational imaging using algorithms to reconstruct information about the sample from raw data. 
 
 
 

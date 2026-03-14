@@ -18,8 +18,8 @@
 - S. Rivet, M. Dubreuil, Y. Le Grand, B. Boulbry and **H. Laviec**, "Dispositif de démodulation par éclairement spectralement structuré pour la microscopie plein champ de la biréfringence par codage spectral", Patent FR2406902, 2024
 
 ### Conference presentation
-- (submitted) French congress of Optics, Dijon, July 2026
-- (accepted) SPIE Europe 2026, oral presentation, Strasbourg, April 2026
+- *(submitted)* French congress of Optics, Dijon, July 2026
+- *(accepted)* SPIE Europe 2026, oral presentation, Strasbourg, April 2026
 - Conference of IBSAM (Institut Brestois Santé Agro Matière), poster, Brest, 2025
 - French congress of Optics, oral presentation, Rouen, 2025
 

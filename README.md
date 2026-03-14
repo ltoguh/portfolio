@@ -24,7 +24,7 @@
 - French congress of Optics, [oral presentation](https://www.researchgate.net/publication/392936746_MICROSCOPIE_DE_BIREFRINGENCE_A_BALAYAGE_LASER_ET_PLEIN_CHAMP_PAR_CODAGE_SPECTRAL_DE_LA_POLARISATION?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjpudWxsLCJwb3NpdGlvbiI6InBhZ2VDb250ZW50In19), Rouen, 2025
 
 ### Results
-![Alt text](images/cell_bouche2.png)
+![Alt text](images/cell_bouche2_hsv.png)
 
 
 

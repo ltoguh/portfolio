@@ -7,8 +7,7 @@ show_downloads: True
 
 theme: jekyll-theme-minimal
 
-github:
-  username: ltoguh
+github_username: ltoguh
 
 email: hugo.laviec@univ-brest.fr
         

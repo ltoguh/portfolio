@@ -6,5 +6,6 @@
 - (2019 - 2021) Physics Bachelor's degree, University of Brest, France
 
 ### Research experience
-Optical microscopy
+- PhD in optical microscopy at the University of Brest
+  Development of multimodal techniques 
 

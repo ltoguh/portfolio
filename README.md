@@ -28,12 +28,15 @@
 <figure>
   <div style="display:flex; gap:10px;">
     <img src="images/cell_bouche2_hsv.png" width="300">
-    <img src="images/cell_bouche2_phase.png" width="300">
+    <img src="images/artere.jpg" width="380">
   </div>
   <figcaption>
-    This figure shows (a) the birefringence of human cheek cells and its orientation and (b) the phase gradient of the cells
+    This figure shows the birefringence and its orientation of (a) human cheek cells and its orientation and (b) an artere. 
   </figcaption>
 </figure>
+
+
+
 
 
 

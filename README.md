@@ -1,17 +1,16 @@
 # Portfolio
 
-I am currently looking for a postdoc position in biomedical imaging in Germany.
+I am currently looking for a postdoc position in the field of photonics in Germany but I have a keen in optical/X-ray biomedical imaging.
 
 ### Contact
-Mail: hugo.laviec@univ-brest.fr
-      laviechugo@protonmail.com
+Mail: laviechugo@protonmail.com
 
 # CV
 
 ### Education
-- (2023 - Present) **Ph. D., Physics** | University of Brest, France
-- (2022 - 2023) **M.S., Physics, Optics and Photonics** | University of Brest, France
-- (2019 - 2021) **B.S., Physics** | University of Brest, France
+- (2023 - Present) **Ph. D., Physics**, University of Brest, France
+- (2022 - 2023) **M.S., Physics, Optics and Photonics**, University of Brest, France
+- (2019 - 2021) **B.S., Physics**, University of Brest, France
 
 ### Research experience
 - **PhD in optical microscopy at the University of Brest**\

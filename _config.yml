@@ -1,5 +1,5 @@
 title: Hugo Laviec
 logo: /images/me.jpg
-#description text below image
+description: Welcome to my portfolio, where you'll find my resume, my research interests and some of my results.
 show_downloads: True
 theme: jekyll-theme-minimal

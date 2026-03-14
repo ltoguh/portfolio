@@ -1,6 +1,6 @@
 # Portfolio
 
-I am currently looking for a postdoc position in the field of photonics in Germany but I have a keen in optical/X-ray biomedical imaging.
+I am currently looking for a postdoc position in the field of photonics in Germany but I have a keen in optical and X-ray biomedical imaging.
 
 ### Contact
 Mail: laviechugo@protonmail.com
